@@ -316,7 +316,7 @@ body {
 .f4{
     margin-top: 100px;
     height:400px;
-    background-image: url("/assets/kitchen13.webp");
+    background-image: url("assets/kitchen13.webp");
     background-size: cover;
     opacity: 0.8;
 }
