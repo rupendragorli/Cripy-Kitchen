@@ -97,7 +97,7 @@ body {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("/assets/bg.jpg");
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("./assets/bg.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -241,7 +241,7 @@ body {
 }
 
 .news-card--featured {
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/assets/kitchen8.jpeg");
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("./assets/kitchen8.jpeg");
     background-size: cover;
     background-position: center;
     color: white;
@@ -252,7 +252,7 @@ body {
 }
 
 .news-card--secondary {
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/assets//kitchen9.jpeg");
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("./assets//kitchen9.jpeg");
     background-size: cover;
     background-position: center;
     color: white;
